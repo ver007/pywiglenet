@@ -1,4 +1,4 @@
-PyWiglenet
+PyWiglenet 查询相对位置wifi ssid
 ==========
 
 With *PyWiglenet* you can get the location of an WiFi Access Point using the `Wigle.net <http://wigle.net/>`_ API. The response should give you latitude, longitude, SSID and historical data if the network is found.
